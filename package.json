@@ -1,0 +1,13 @@
+{
+  "name": "@vitest/emotion-serializer",
+  "version": "0.0.0",
+  "description": "Vitest emotion-js serializer.",
+  "main": "index.js",
+  "keywords": [
+    "vitest",
+    "emotion",
+    "serializer"
+  ],
+  "author": "Ananthu Sudhikumar",
+  "license": "GPL-3.0"
+}
